@@ -12,7 +12,7 @@
 
 ## 🌐 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/🌐_Meu_Portfólio-Visitar-000000?style=for-the-badge)]([https://seu-portfolio.vercel.app](https://elmargrjr.github.io/Portfolio/))
+[![Portfolio](https://img.shields.io/badge/🌐_Meu_Portfólio-Visitar-000000?style=for-the-badge)](https://elmargrjr.github.io/Portfolio/)
 
 ---
 
