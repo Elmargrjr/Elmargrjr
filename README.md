@@ -22,5 +22,8 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=Elmargrjr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=github_dark" width="49%" />
+</p>
+
+<p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Elmargrjr&langs_count=7&theme=github_dark" width="30%" />
 </p>
