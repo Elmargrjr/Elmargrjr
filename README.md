@@ -10,9 +10,13 @@
 
 ---
 
-## 🌐 Portfolio
+<h2 align="center">🌐 Portfolio</h2>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Meu_Portfólio-Visitar-000000?style=for-the-badge)](https://elmargrjr.github.io/Portfolio/)
+<p align="center">
+  <a href="https://elmargrjr.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Meu_Portfólio-Visitar-000000?style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
