@@ -1,7 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou Elmar Júnior</h1>
 
 <p align="center">
-  Estudante de Engenharia da Computação • Desenvolvedor • Apaixonado por Software e Eletrônica
+  Estudante de Engenharia da Computação • Desenvolvedor
 </p>
 
 <p align="center">
